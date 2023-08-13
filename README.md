@@ -95,7 +95,13 @@ We can store boolean inside a varible <br>
 
 other boolean results <br>
 
+![j23](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/283802d2-fcbc-49c4-9c6e-c218cc11f5a5)
 
+when we write type above code in the console <br>
+
+![j23](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/ec73f482-b432-4248-9fa8-2da43a51f996)
+
+The above message pops up <br>
 
 
 
