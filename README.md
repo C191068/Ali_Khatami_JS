@@ -22,3 +22,19 @@ We will select the console tab <br>
 
 We will click on this settings icon <br>
 
+![j6](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/6825c2ee-ecb0-41c9-837a-d8b8d66e2cdd)
+
+Here we choose the dark theme <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
