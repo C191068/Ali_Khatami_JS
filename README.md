@@ -40,6 +40,10 @@ here I typed a string named as "Ali Khatami" shown with white arrow and the cons
 then use the ```typeof``` keyword and it return the data type <br>
 
 
+![j10](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/7efa58ed-0841-4d3b-a860-94481fec8a60)
+
+then use typeof to find the data type of the number <br>
+
 
 
 
