@@ -35,6 +35,22 @@ We type Javascript comment in the console start with duble back slashes <br>
 
 here I typed a string named as "Ali Khatami" shown with white arrow and the console gives the string as output <br>
 
+![j9](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/6f15f885-9b56-4b94-a25b-915e80b9f113)
+
+then use the ```typeof``` keyword and it return the data type <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
