@@ -14,3 +14,7 @@ Fig2: Then we will right click the mouse and click Inspect to open Chrome Dev to
 Then we will see the Dev tools on the right and web page on browser  on the left , we may extend the dev tools <br>
 with mouse to the left side <br>
 
+![j4](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/d5583860-a2a3-40eb-a56c-08b354bf8096)
+
+We will select the console tab <br>
+
