@@ -18,3 +18,7 @@ with mouse to the left side <br>
 
 We will select the console tab <br>
 
+![j5](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/af67d0e2-3386-4215-97cd-5c6a2566b09c)
+
+We will click on this settings icon <br>
+
