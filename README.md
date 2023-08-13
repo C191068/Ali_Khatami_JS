@@ -68,6 +68,10 @@ We can reassign value of different data type <br>
 Mtahematical operations at JS <br>
 
 
+![j16](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/36d63e33-59f5-4913-8d31-f51d414f9c75)
+
+We can also do like the above <br>
+
 
 
 
