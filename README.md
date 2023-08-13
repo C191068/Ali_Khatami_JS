@@ -26,6 +26,9 @@ We will click on this settings icon <br>
 
 Here we choose the dark theme <br>
 
+![j7](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/f1fc38cb-aafe-4c3a-9b9c-04599255f7d0)
+
+We type Javascript comment in the console start with duble back slashes <br>
 
 
 
