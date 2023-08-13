@@ -72,6 +72,9 @@ Mtahematical operations at JS <br>
 
 We can also do like the above <br>
 
+![j17](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/e0be1bc7-f2a1-465b-b084-0b7c2e78fb96)
+
+We combine both the number and the name baove <br>
 
 
 
