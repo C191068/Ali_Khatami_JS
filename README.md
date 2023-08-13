@@ -91,6 +91,9 @@ For the above comparison will return true <br>
 We can store boolean inside a varible <br>
 
 
+![l22](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/cfffcb0b-aa71-4b06-80b4-56fa59776a77)
+
+other boolean results <br>
 
 
 
