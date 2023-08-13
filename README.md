@@ -59,6 +59,9 @@ meaning the first word start with lowercase letter and rest with uppercase lette
 
 Now we assing the variabl equal to string and later when we typeof it returns the datatype <br>
 
+![j14](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/467097ef-f5e7-4b29-ad93-dae22a38dc6c)
+
+We can reassign value of different data type <br>
 
 
 
