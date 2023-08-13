@@ -76,6 +76,10 @@ We can also do like the above <br>
 
 We combine both the number and the name above and also the datatype of it  <br>
 
+![j19](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/cf8a690f-28d2-43aa-ae27-9d0f10d4ce2c)
+
+For the above comparison returns boolean false <br>
+
 
 
 
