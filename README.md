@@ -99,9 +99,10 @@ other boolean results <br>
 
 when we write type above code in the console <br>
 
-![j23](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/ec73f482-b432-4248-9fa8-2da43a51f996)
+![j24](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/cf035926-8475-4a99-b7a4-090707e3f68e)
 
-The above message pops up <br>
+
+The above message pops up and this is an alertbox in javascript<br>
 
 
 
