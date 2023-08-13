@@ -63,6 +63,10 @@ Now we assing the variabl equal to string and later when we typeof it returns th
 
 We can reassign value of different data type <br>
 
+![j15](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/a343ec0a-1b52-4faa-8afd-395499719b18)
+
+Mtahematical operations at JS <br>
+
 
 
 
