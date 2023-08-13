@@ -55,6 +55,10 @@ If variavble name is made up of more than words we should use camel case <br>
 meaning the first word start with lowercase letter and rest with uppercase letters <br>
 
 
+![j13](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/58ea9a79-3ab0-47bb-9231-be37b4efca8d)
+
+Now we assing the variabl equal to string and later when we typeof it returns the datatype <br>
+
 
 
 
