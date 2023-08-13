@@ -86,6 +86,9 @@ For the above comparison returns boolean false <br>
 For the above comparison will return true <br>
 
 
+![l21](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/60eeb64f-6aae-4b5c-b5ea-4be519fc6f83)
+
+We can store boolean inside a varible <br>
 
 
 
