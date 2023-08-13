@@ -31,6 +31,9 @@ Here we choose the dark theme <br>
 We type Javascript comment in the console start with duble back slashes <br>
 
 
+![j8](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/d091b162-a603-4a50-b226-b5cfd174df13)
+
+here I typed a string named as "Ali Khatami" shown with white arrow and the console gives the string as output <br>
 
 
 
