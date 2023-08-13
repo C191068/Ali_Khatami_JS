@@ -45,6 +45,9 @@ then use the ```typeof``` keyword and it return the data type <br>
 then use typeof to find the data type of the number <br>
 
 
+![j11](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/0f97f7f2-1f54-4d65-ba5d-6ce407d35623)
+
+typeof for false <br>
 
 
 
