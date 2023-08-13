@@ -80,7 +80,10 @@ We combine both the number and the name above and also the datatype of it  <br>
 
 For the above comparison returns boolean false <br>
 
+![j20](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/6b718e58-fdd7-414c-b78f-793bfde536ce)
 
+
+For the above comparison will return true <br>
 
 
 
