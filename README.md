@@ -50,6 +50,10 @@ then use typeof to find the data type of the number <br>
 typeof for false <br>
 
 
+If variavble name is made up of more than words we should use camel case <br>
+
+meaning the first word start with lowercase letter and rest with uppercase letters <br>
+
 
 
 
