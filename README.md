@@ -9,3 +9,8 @@ Fig1: In chrome address bar we will type about:blank <br>
 
 Fig2: Then we will right click the mouse and click Inspect to open Chrome Dev tools <br>
 
+![j3](https://github.com/C191068/Ali_Khatami_JS/assets/89090776/937f038b-dc11-47dc-9679-ea7c3943c67d)
+
+Then we will see the Dev tools on the right and browser on the left , we may extend the dev tools <br>
+with mouse to the left side <br>
+
